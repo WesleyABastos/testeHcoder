@@ -1,4 +1,4 @@
 # testeHcoder
 
-Ciração de BDD para História de Usuário - Programa de 
+Criação de BDD para História de Usuário - Programa de 
 Recompensa e Benefícios da QAtest 
