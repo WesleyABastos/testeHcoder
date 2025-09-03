@@ -1,12 +1,12 @@
 # 🧪 testeHcoder
 
-Repositório de testes comportamentais (BDD) escritos com linguagem **Gherkin** para a história de usuário do **Programa de Recompensa e Benefícios da QAtest**.
+Repositório de testes comportamentais (BDD) escritos com linguagem **Gherkin** para a história de usuário do **Programa de Recompensa e Benefícios da QAtest**
 
 ---
 
 ## 📋 Objetivo
 
-Este projeto tem como objetivo validar, por meio de cenários BDD, as regras e funcionalidades descritas na história de usuário da operadora **QAtest**, responsável por um programa de benefícios segmentado por plano: **Basic**, **Premium** e **Black**.
+Este projeto tem como objetivo validar, por meio de cenários BDD, as regras e funcionalidades descritas na história de usuário da operadora **QAtest**, responsável por um programa de benefícios segmentado por plano: **Basic**, **Premium** e **Black**
 
 Os testes foram estruturados utilizando arquivos `.feature` com cenários escritos em **português (pt-BR)**, simulando interações reais de clientes com o sistema de resgates e visualização de recompensas.
 
